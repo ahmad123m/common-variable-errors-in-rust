@@ -5,7 +5,6 @@ This repository demonstrates **common variable-related errors in Rust** for begi
 ## Structure
 
 - `examples`: Contains Rust files with examples of errors and fixes.
-- `LICENSE`: MIT License by default.
 
 ## How to Use
 
